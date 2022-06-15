@@ -3,6 +3,9 @@
     padding: 0%;
 }
 
+
+
+
 .top-nav{
     display: flex;
     justify-content: flex-end;
@@ -23,6 +26,9 @@
     
 }
 
+.top-nav ul li a:hover{
+    text-decoration: underline;
+}
 .top-nav button{
     border-radius: 10px;
     text-decoration: none;
@@ -106,4 +112,8 @@
 .bottom ul li a{
     text-decoration: none;
     color: white;
+}
+
+.bottom ul li a:hover{
+    text-decoration: underline;
 }
