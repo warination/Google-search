@@ -51,11 +51,11 @@
 }
 
 .content{
-    width: 100vh;
+    
     position: relative;
     text-align: center;
+    padding: auto;
     padding-top: 250px;
-    padding-left: 450px;
     text-decoration: none;
 }
 
